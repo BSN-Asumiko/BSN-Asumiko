@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hello!<br>👩  Nice to meet you, I'm Kate! <br>🌟 I'm a student at FullStack FemCoders Bootcamp by Factoria F5.<br>🌱 Currently I'm learning React and different frameworks and libreries.<br>💬 My interests:   <br>                            💻 coding<br>                            🎼 music and 🎤 singing<br>                            🎨 illustration (check my Behance)<br>                            🌍 travelling<br>                            😻 cats<br>                            📚 reading<br><br><br><br><br><br>
+  Hello!<br>👩  Nice to meet you, I'm Kate! <br>🌟 I'm a student at FullStack FemCoders Bootcamp by Factoria F5.<br>🌱 Currently I'm learning React and different frameworks and libreries.<br>💬 My interests:   <br>                            💻 coding<br>                            🎼 music and 🎤 singing<br>                            🎨 illustration (check my Behance by clicking the button below)<br>                            🌍 travelling<br>                            😻 cats<br>                            📚 reading<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -20,12 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BSN-Asumiko&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=BSN-Asumiko&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=UPTB5895VBM2Q) 
