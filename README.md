@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hello!<br>👩  Nice to meet you, I'm Kate! <br>🌟 I'm a student at FullStack FemCoders Bootcamp by Factoria F5.<br>🌱 Currently I'm learning React and different frameworks and libreries.<br>💬 My interests:   <br>                            💻 coding<br>                            🎼 music and 🎤 singing<br>                            🎨 illustration (check my Behance by clicking the button below)<br>                            🌍 travelling<br>                            😻 cats<br>                            📚 reading<br><br><br><br><br><br>
+  Hello!<br>👩  Nice to meet you, I'm Kate! <br>🌟 I'm a student at FullStack FemCoders Bootcamp by Factoria F5.<br>🌱 Currently I'm learning Java and working with PostgreSQL.<br>💬 My interests:   <br>                            💻 coding<br>                            🎼 music and 🎤 singing<br>                            🎨 illustration (check my Behance by clicking the button below)<br>                            🌍 travelling<br>                            😻 cats<br>                            📚 reading<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
