@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!<br>👩 Nice to meet you, I'm Kate!<br>🌟 I'm a student at FullStack FemCoders Bootcamp by Factoria F5.<br>🌱 Currently I'm learning Java and PostgreSQL.<br>💬 My interests:<br>💻 coding<br>🎼 music and 🎤 singing<br>🎨 illustration (check my Behance by clicking the button below)<br>🌍 travelling<br>😻 cats<br>📚 reading<br>
+Hello!<br>👩 Nice to meet you, I'm Kate!<br>🌟 I'm a student at FullStack FemCoders Bootcamp by Factoria F5.<br>🌱 Currently I'm making my second Full Stack project, this time it is individial. The stack is follow: Java, SpringBoot, PostgreSQL, API rest, Spring Security, JWT for back-end part and React+Vite, TailwindCSS, React Router, axios, JavaScript, HTML5, CSS3 for front-End.<br>💬 My interests:<br>💻 coding<br>🎼 music and 🎤 singing<br>🎨 illustration (check my Behance by clicking the button below)<br>🌍 travelling<br>😻 cats<br>📚 reading<br>
 
 
 ## 🌐 Socials:
