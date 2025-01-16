@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!<br>👩 Nice to meet you, I'm Kate!<br>🌟 I'm a Junior FullStack Developer, recent graduate from FemCoders Bootcamp by Factoria F5.<br>🌱 I’m currently seeking my first tech role as Junior Full Stack Developer (Java + React.js), or Junior Backend Developer (Java, Maven, SpringBoot Spring Security, JWT, PostgreSQL, API Restful), or Junior Frontend Developer (React.js, Tailwind, Styled Components, SASS).<br>💬 My interests:<br>💻 coding<br>🎼 music and 🎤 singing<br>🎨 illustration (check my Behance by clicking the button below)<br>🌍 travelling<br>😻 cats<br>📚 reading<br>
+Hello!<br>👩 Nice to meet you, I'm Kate!<br>🌟 I'm a Junior FullStack Developer, with Java and React.js as a stack.<br>🌱 I’m currently seeking my first tech role as Junior Full Stack Developer, Junior Backend Developer or Junior Frontend Developer as well.<br> Meanwhile I´m working on my own little project, to stay in touch and learn React Native, because I´m interested in mobile apps too. <br>💬 My interests:<br>💻 coding<br>🎼 music and 🎤 singing<br>🎨 illustration (check my Behance by clicking the button below)<br>🌍 travelling<br>😻 cats<br>📚 reading<br>
 
 
 ## 🌐 Socials:
